@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.py3venv
 
 # Spyder project settings
 .spyderproject
@@ -96,6 +97,7 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
+.idea
 
 # mkdocs documentation
 /site
