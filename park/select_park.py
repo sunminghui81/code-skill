@@ -17,4 +17,4 @@ def sequentially(parks):
             return index
 
 def vacancy(parks):
-    pass
+    for
